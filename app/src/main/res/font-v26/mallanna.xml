@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <font
+        android:font="@font/mulish_black"
+        android:fontStyle="normal"
+        android:fontWeight="400" />
+    <font
+        android:font="@font/mulish_black_italic"
+        android:fontStyle="normal"
+        android:fontWeight="400" />
+    <font
+        android:font="@font/mulish_bold"
+        android:fontStyle="normal"
+        android:fontWeight="400" />
+    <font
+        android:font="@font/mulish_bold_italic"
+        android:fontStyle="normal"
+        android:fontWeight="400" />
+    <font
+        android:font="@font/mulish_extra_bold_italic"
+        android:fontStyle="normal"
+        android:fontWeight="400" />
+    <font
+        android:font="@font/mulish_extra_light"
+        android:fontStyle="normal"
+        android:fontWeight="400" />
+    <font
+        android:font="@font/mulish_extra_light_italic"
+        android:fontStyle="normal"
+        android:fontWeight="400" />
+    <font
+        android:font="@font/mulish_italic"
+        android:fontStyle="normal"
+        android:fontWeight="400" />
+    <font
+        android:font="@font/mulish_light"
+        android:fontStyle="normal"
+        android:fontWeight="400" />
+    <font
+        android:font="@font/mulish_light_italic"
+        android:fontStyle="normal"
+        android:fontWeight="400" />
+    <font
+        android:font="@font/mulish_medium"
+        android:fontStyle="normal"
+        android:fontWeight="400" />
+    <font
+        android:font="@font/mulish_medium_italic"
+        android:fontStyle="normal"
+        android:fontWeight="400" />
+    <font
+        android:font="@font/mulish_regular"
+        android:fontStyle="normal"
+        android:fontWeight="400" />
+    <font
+        android:font="@font/mulish_semi_bold"
+        android:fontStyle="normal"
+        android:fontWeight="400" />
+    <font
+        android:font="@font/mulish_semi_bold"
+        android:fontStyle="normal"
+        android:fontWeight="400" />
+
+    <font
+        android:font="@font/mulish_semi_bold_italic"
+        android:fontStyle="normal"
+        android:fontWeight="400" />
+
+    <font
+        android:font="@font/mulish_talic"
+        android:fontStyle="normal"
+        android:fontWeight="400" />
+
+    <font
+        android:font="@font/mulishextra_bold"
+        android:fontStyle="normal"
+        android:fontWeight="400" />
+
+
+</font-family>
